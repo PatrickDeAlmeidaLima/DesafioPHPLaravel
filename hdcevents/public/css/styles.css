@@ -218,6 +218,16 @@ header {
 }
 
 
+.dashboard-events-container form {
+    display: inline-block;
+}
+
+/*Edite Page*/
+
+.img-preview {
+    width: 150px;
+    margin-top: 20px;
+}
 
 /* Footer */
 footer {
