@@ -184,6 +184,10 @@ header {
     font-weight: bold;
 }
 
+#description-container h3 {
+    margin-top: 30px;
+}
+
 #info-container ion-icon {
     font-size: 20px;
     color: #F2A340;
@@ -194,14 +198,27 @@ header {
     margin: 20px 0;
 }
 
-#items-list{
+#items-list {
     list-style: none;
     padding-left: 0;
 }
 
-#items-list li{
+#items-list li {
     display: flex;
 }
+
+/*Dashboard*/
+.dashboard-title-container {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.dashboard-events-container th {
+    width: 25%;
+}
+
+
+
 /* Footer */
 footer {
     text-align: center;
