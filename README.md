@@ -1,3 +1,8 @@
-# Desafio - Vaga - Pessoa desenvolvedora back-end PHP - Laravel
-Desafio PHP
+# PHP - Laravel
 
+Itens instalados
+composer create-project --prefer-dist laravel/laravel "nome do projeto"
+composer require laravel/jetstream
+php artisan jetstream:install livewire
+npm install
+npm run dev
